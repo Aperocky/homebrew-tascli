@@ -2,7 +2,7 @@ class Tascli < Formula
   desc "Simple, fast, local CLI tool for tracking tasks and records from unix terminal"
   homepage "https://github.com/Aperocky/tascli"
   url "https://github.com/Aperocky/tascli/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "d7e3942d203599caceb12ee5ab808567ad8cc4e03986500b681da8c85c47cf01"
+  sha256 "7c7aaf31b3615201841112c87f145e9c07cb02fb0fc247776f63dcb47565d74f"
   license "MIT"
 
   depends_on "rust" => :build
